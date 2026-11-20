@@ -1,0 +1,123 @@
+[
+    {
+        "id": 0,
+        "place": "shirt",
+        "style": "jersey",
+        "primary_color": "dark brown",
+        "secondary_color": "black",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "warm weather",
+        "image_path": "wardrobe_images/wardrobe_shirts/shirt_0.png"
+    },
+    {
+        "id": 1,
+        "place": "shirt",
+        "style": "t-shirt",
+        "primary_color": "medium red",
+        "secondary_color": "medium orange",
+        "pattern": "checkered",
+        "material": "fabric",
+        "temperature": "warm weather",
+        "image_path": "wardrobe_images/wardrobe_shirts/shirt_1.png"
+    },
+    {
+        "id": 2,
+        "place": "shirt",
+        "style": "active shirt",
+        "primary_color": "medium grey",
+        "secondary_color": "medium brown",
+        "pattern": "checkered",
+        "material": "fabric",
+        "temperature": "warm weather",
+        "image_path": "wardrobe_images/wardrobe_shirts/shirt_2.png"
+    },
+    {
+        "id": 3,
+        "place": "shirt",
+        "style": "active shirt",
+        "primary_color": "medium orange",
+        "secondary_color": "light tan",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "warm weather",
+        "image_path": "wardrobe_images/wardrobe_shirts/shirt_3.png"
+    },
+    {
+        "id": 4,
+        "place": "shirt",
+        "style": "jersey",
+        "primary_color": "light tan",
+        "secondary_color": "medium grey",
+        "pattern": "stripes_vertical",
+        "material": "fabric",
+        "temperature": "warm weather",
+        "image_path": "wardrobe_images/wardrobe_shirts/shirt_4.png"
+    },
+    {
+        "id": 5,
+        "place": "shirt",
+        "style": "active shirt",
+        "primary_color": "medium brown",
+        "secondary_color": "black",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "warm weather",
+        "image_path": "wardrobe_images/wardrobe_shirts/shirt_5.png"
+    },
+    {
+        "id": 6,
+        "place": "shirt",
+        "style": "shirt",
+        "primary_color": "medium grey",
+        "secondary_color": "dark brown",
+        "pattern": "patterned",
+        "material": "wool",
+        "temperature": "cold weather",
+        "image_path": "wardrobe_images/wardrobe_shirts/shirt_6.png"
+    },
+    {
+        "id": 7,
+        "place": "shirt",
+        "style": "t-shirt",
+        "primary_color": "light tan",
+        "secondary_color": "medium grey",
+        "pattern": "checkered",
+        "material": "wool",
+        "temperature": "cold weather",
+        "image_path": "wardrobe_images/wardrobe_shirts/shirt_7.jpg"
+    },
+    {
+        "id": 8,
+        "place": "shirt",
+        "style": "active shirt",
+        "primary_color": "light tan",
+        "secondary_color": "medium grey",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "warm weather",
+        "image_path": "wardrobe_images/wardrobe_shirts/shirt_8.png"
+    },
+    {
+        "id": 9,
+        "place": "shirt",
+        "style": "active shirt",
+        "primary_color": "medium grey",
+        "secondary_color": "medium brown",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "warm weather",
+        "image_path": "wardrobe_images/wardrobe_shirts/shirt_9.png"
+    },
+    {
+        "id": 10,
+        "place": "shirt",
+        "style": "active shirt",
+        "primary_color": "dark brown",
+        "secondary_color": "medium grey",
+        "pattern": "checkered",
+        "material": "fabric",
+        "temperature": "warm weather",
+        "image_path": "wardrobe_images/wardrobe_shirts/shirt_10.png"
+    }
+]
