@@ -1,0 +1,28 @@
+import time: self [us] | cumulative | imported package
+import time:       371 |        371 |   _io
+import time:        73 |         73 |   marshal
+import time:       530 |        530 |   posix
+import time:      1230 |       2202 | _frozen_importlib_external
+import time:       188 |        188 |   time
+import time:       455 |        643 | zipimport
+import time:       101 |        101 |     _codecs
+import time:       996 |       1097 |   codecs
+import time:       697 |        697 |   encodings.aliases
+import time:       917 |       2710 | encodings
+import time:       295 |        295 | encodings.utf_8
+import time:       197 |        197 | _signal
+import time:        54 |         54 |     _abc
+import time:       287 |        340 |   abc
+import time:       303 |        643 | io
+import time:        86 |         86 |       _stat
+import time:       193 |        279 |     stat
+import time:      1642 |       1642 |     _collections_abc
+import time:       173 |        173 |       errno
+import time:       176 |        176 |       genericpath
+import time:       308 |        656 |     posixpath
+import time:       990 |       3567 |   os
+import time:       178 |        178 |   _sitebuiltins
+import time:       339 |        339 |     apport_python_hook
+import time:       213 |        552 |   sitecustomize
+import time:      1130 |       5425 | site
+python: can't open file '/home/user/.venv/camera_test.py': [Errno 2] No such file or directory
