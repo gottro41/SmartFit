@@ -1,0 +1,79 @@
+[
+    {
+        "id": 0,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "medium grey",
+        "secondary_color": "dark brown",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_0.png"
+    },
+    {
+        "id": 1,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "dark brown",
+        "secondary_color": "black",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_1.png"
+    },
+    {
+        "id": 2,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "light tan",
+        "secondary_color": "medium grey",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_2.png"
+    },
+    {
+        "id": 3,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "light tan",
+        "secondary_color": "black",
+        "pattern": "stripes_vertical",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_3.png"
+    },
+    {
+        "id": 4,
+        "place": "pants",
+        "style": "sweatpants",
+        "primary_color": "dark brown",
+        "secondary_color": "black",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_4.png"
+    },
+    {
+        "id": 5,
+        "place": "pants",
+        "style": "sweatpants",
+        "primary_color": "light tan",
+        "secondary_color": "black",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_5.png"
+    },
+    {
+        "id": 6,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "medium red",
+        "secondary_color": "medium orange",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_6.png"
+    }
+]
