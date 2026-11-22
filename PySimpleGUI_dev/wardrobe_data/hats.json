@@ -1,0 +1,68 @@
+[
+    {
+        "id": 0,
+        "place": "hat",
+        "style": "hat",
+        "primary_color": "bright red",
+        "secondary_color": "medium red",
+        "pattern": "stripes_vertical",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_hats/hat_0.png"
+    },
+    {
+        "id": 1,
+        "place": "hat",
+        "style": "hat",
+        "primary_color": "bright orange",
+        "secondary_color": "bright muted orange",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_hats/hat_1.png"
+    },
+    {
+        "id": 2,
+        "place": "hat",
+        "style": "cap",
+        "primary_color": "very dark blue",
+        "secondary_color": "dark blue",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_hats/hat_2.png"
+    },
+    {
+        "id": 3,
+        "place": "hat",
+        "style": "cap",
+        "primary_color": "dark red",
+        "secondary_color": "dark pink",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_hats/hat_3.png"
+    },
+    {
+        "id": 4,
+        "place": "hat",
+        "style": "cap",
+        "primary_color": "dark red",
+        "secondary_color": "bright muted orange",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_hats/hat_4.png"
+    },
+    {
+        "id": 5,
+        "place": "hat",
+        "style": "cap",
+        "primary_color": "medium blue",
+        "secondary_color": "bright blue",
+        "pattern": "patterned",
+        "material": "denim",
+        "temperature": "cold weather",
+        "image_path": "wardrobe_images/wardrobe_hats/hat_5.png"
+    }
+]

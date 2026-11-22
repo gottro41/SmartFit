@@ -1,0 +1,46 @@
+[
+    {
+        "id": 0,
+        "place": "jacket",
+        "style": "jacket",
+        "primary_color": "dark yellow",
+        "secondary_color": "medium yellow",
+        "pattern": "stripes_vertical",
+        "material": "fabric",
+        "temperature": "cold weather",
+        "image_path": "wardrobe_images/wardrobe_jackets/jacket_0.png"
+    },
+    {
+        "id": 1,
+        "place": "jacket",
+        "style": "jacket",
+        "primary_color": "very dark muted grey",
+        "secondary_color": "dark muted grey",
+        "pattern": "checkered",
+        "material": "leather",
+        "temperature": "cold weather",
+        "image_path": "wardrobe_images/wardrobe_jackets/jacket_1.png"
+    },
+    {
+        "id": 2,
+        "place": "jacket",
+        "style": "jacket",
+        "primary_color": "dark muted grey",
+        "secondary_color": "very dark muted grey",
+        "pattern": "stripes_vertical",
+        "material": "leather",
+        "temperature": "cold weather",
+        "image_path": "wardrobe_images/wardrobe_jackets/jacket_2.png"
+    },
+    {
+        "id": 3,
+        "place": "jacket",
+        "style": "hoodie",
+        "primary_color": "light muted white",
+        "secondary_color": "bright muted grey",
+        "pattern": "stripes_vertical",
+        "material": "fabric",
+        "temperature": "cold weather",
+        "image_path": "wardrobe_images/wardrobe_jackets/jacket_3.png"
+    }
+]

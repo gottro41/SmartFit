@@ -1,0 +1,101 @@
+[
+    {
+        "id": 0,
+        "place": "shoes",
+        "style": "shoes",
+        "primary_color": "bright orange",
+        "secondary_color": "medium blue",
+        "pattern": "patterned",
+        "material": "denim",
+        "temperature": "cold weather",
+        "image_path": "wardrobe_images/wardrobe_shoes/shoes_0.png"
+    },
+    {
+        "id": 1,
+        "place": "shoes",
+        "style": "sneakers",
+        "primary_color": "medium muted grey",
+        "secondary_color": "bright muted grey",
+        "pattern": "patterned",
+        "material": "rubber",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_shoes/shoes_1.png"
+    },
+    {
+        "id": 2,
+        "place": "shoes",
+        "style": "shoes",
+        "primary_color": "light muted white",
+        "secondary_color": "medium muted grey",
+        "pattern": "patterned",
+        "material": "rubber",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_shoes/shoes_2.png"
+    },
+    {
+        "id": 3,
+        "place": "shoes",
+        "style": "sneakers",
+        "primary_color": "very dark muted black",
+        "secondary_color": "light muted white",
+        "pattern": "polka dots",
+        "material": "rubber",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_shoes/shoes_3.png"
+    },
+    {
+        "id": 4,
+        "place": "shoes",
+        "style": "shoes",
+        "primary_color": "light muted white",
+        "secondary_color": "medium muted grey",
+        "pattern": "polka dots",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_shoes/shoes_4.png"
+    },
+    {
+        "id": 5,
+        "place": "shoes",
+        "style": "shoes",
+        "primary_color": "light muted white",
+        "secondary_color": "very dark muted grey",
+        "pattern": "patterned",
+        "material": "rubber",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_shoes/shoes_5.png"
+    },
+    {
+        "id": 6,
+        "place": "shoes",
+        "style": "sneakers",
+        "primary_color": "medium muted grey",
+        "secondary_color": "dark muted grey",
+        "pattern": "patterned",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_shoes/shoes_6.png"
+    },
+    {
+        "id": 7,
+        "place": "shoes",
+        "style": "shoes",
+        "primary_color": "medium orange",
+        "secondary_color": "dark orange",
+        "pattern": "patterned",
+        "material": "rubber",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_shoes/shoes_7.png"
+    },
+    {
+        "id": 8,
+        "place": "shoes",
+        "style": "sneakers",
+        "primary_color": "medium vibrant blue",
+        "secondary_color": "light muted white",
+        "pattern": "patterned",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_shoes/shoes_8.png"
+    }
+]

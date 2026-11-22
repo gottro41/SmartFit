@@ -1,0 +1,1168 @@
+[
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "jersey",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "pants",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "jersey",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "sweatpants",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "active shirt",
+                "primary_color": "medium brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "sweatpants",
+                "primary_color": "light tan",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "active shirt",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "sweatpants",
+                "primary_color": "light tan",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "t-shirt",
+                "primary_color": "medium red",
+                "secondary_color": "medium orange",
+                "pattern": "checkered",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "pants",
+                "primary_color": "medium red",
+                "secondary_color": "medium orange",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "active shirt",
+                "primary_color": "medium grey",
+                "secondary_color": "medium brown",
+                "pattern": "checkered",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "pants",
+                "primary_color": "medium grey",
+                "secondary_color": "dark brown",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "jersey",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "sweatpants",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "jersey",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "sweatpants",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "active shirt",
+                "primary_color": "medium brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "pants",
+                "primary_color": "medium red",
+                "secondary_color": "medium orange",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": -1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "active shirt",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "sweatpants",
+                "primary_color": "light tan",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "jersey",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "stripes_vertical",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "pants",
+                "primary_color": "medium red",
+                "secondary_color": "medium orange",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": -1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "jersey",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "pants",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "jersey",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "sweatpants",
+                "primary_color": "light tan",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "active shirt",
+                "primary_color": "medium grey",
+                "secondary_color": "medium brown",
+                "pattern": "checkered",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "pants",
+                "primary_color": "medium grey",
+                "secondary_color": "dark brown",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "t-shirt",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "checkered",
+                "material": "wool"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "sweatpants",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": -1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "active shirt",
+                "primary_color": "medium orange",
+                "secondary_color": "light tan",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "sweatpants",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "t-shirt",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "checkered",
+                "material": "wool"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "sweatpants",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "jersey",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "sweatpants",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "shirt",
+                "primary_color": "medium grey",
+                "secondary_color": "dark brown",
+                "pattern": "patterned",
+                "material": "wool"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "sweatpants",
+                "primary_color": "dark brown",
+                "secondary_color": "black",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "hat": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "polka dots",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "shirt",
+                "primary_color": "bright muted orange",
+                "secondary_color": "light muted orange",
+                "pattern": "stripes_vertical",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "pants",
+                "primary_color": "medium red",
+                "secondary_color": "medium orange",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "shoes",
+                "style": "sneakers",
+                "primary_color": "medium muted grey",
+                "secondary_color": "dark muted grey",
+                "pattern": "patterned",
+                "material": "fabric"
+            },
+            "hat": {
+                "place": "hat",
+                "style": "cap",
+                "primary_color": "dark red",
+                "secondary_color": "dark pink",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "very dark muted grey",
+                "secondary_color": "dark muted grey",
+                "pattern": "checkered",
+                "material": "leather"
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "active shirt",
+                "primary_color": "medium pink",
+                "secondary_color": "medium red",
+                "pattern": "checkered",
+                "material": "denim"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "pants",
+                "primary_color": "light tan",
+                "secondary_color": "medium grey",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "shoes",
+                "style": "shoes",
+                "primary_color": "light muted white",
+                "secondary_color": "medium muted grey",
+                "pattern": "patterned",
+                "material": "rubber"
+            },
+            "hat": {
+                "place": "hat",
+                "style": "cap",
+                "primary_color": "dark red",
+                "secondary_color": "bright muted orange",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "hoodie",
+                "primary_color": "light muted white",
+                "secondary_color": "bright muted grey",
+                "pattern": "stripes_vertical",
+                "material": "fabric"
+            }
+        }
+    },
+    {
+        "rating": -1,
+        "outfit": {
+            "top": {
+                "place": "shirt",
+                "style": "shirt",
+                "primary_color": "bright muted orange",
+                "secondary_color": "light muted orange",
+                "pattern": "stripes_vertical",
+                "material": "fabric"
+            },
+            "bottom": {
+                "place": "pants",
+                "style": "pants",
+                "primary_color": "bright muted orange",
+                "secondary_color": "light muted orange",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "shoes": {
+                "place": "shoes",
+                "style": "sneakers",
+                "primary_color": "medium muted grey",
+                "secondary_color": "dark muted grey",
+                "pattern": "patterned",
+                "material": "fabric"
+            },
+            "hat": {
+                "place": "hat",
+                "style": "cap",
+                "primary_color": "dark red",
+                "secondary_color": "dark pink",
+                "pattern": "none",
+                "material": "fabric"
+            },
+            "accessory": {
+                "place": "none",
+                "style": "none",
+                "primary_color": "none",
+                "secondary_color": "none",
+                "pattern": "none",
+                "material": "none"
+            },
+            "jacket": {
+                "place": "jacket",
+                "style": "jacket",
+                "primary_color": "very dark muted grey",
+                "secondary_color": "dark muted grey",
+                "pattern": "checkered",
+                "material": "leather"
+            }
+        }
+    }
+]

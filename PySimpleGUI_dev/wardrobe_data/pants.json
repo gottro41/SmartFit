@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "dark brown",
+        "secondary_color": "black",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_1.png"
+    },
+    {
+        "id": 2,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "light tan",
+        "secondary_color": "medium grey",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_2.png"
+    },
+    {
+        "id": 6,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "medium red",
+        "secondary_color": "medium orange",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_6.png"
+    },
+    {
+        "id": 7,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "bright muted orange",
+        "secondary_color": "light muted orange",
+        "pattern": "none",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_7.png"
+    },
+    {
+        "id": 8,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "medium vibrant red",
+        "secondary_color": "medium red",
+        "pattern": "checkered",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_8.png"
+    },
+    {
+        "id": 9,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "dark red",
+        "secondary_color": "very dark red",
+        "pattern": "stripes_vertical",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_9.png"
+    },
+    {
+        "id": 10,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "dark blue",
+        "secondary_color": "medium blue",
+        "pattern": "checkered",
+        "material": "denim",
+        "temperature": "cold weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_10.png"
+    },
+    {
+        "id": 11,
+        "place": "pants",
+        "style": "jeans",
+        "primary_color": "medium blue",
+        "secondary_color": "bright blue",
+        "pattern": "patterned",
+        "material": "denim",
+        "temperature": "cold weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_11.png"
+    },
+    {
+        "id": 12,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "medium orange",
+        "secondary_color": "dark orange",
+        "pattern": "checkered",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_12.png"
+    },
+    {
+        "id": 13,
+        "place": "pants",
+        "style": "jeans",
+        "primary_color": "medium blue",
+        "secondary_color": "bright blue",
+        "pattern": "patterned",
+        "material": "denim",
+        "temperature": "cold weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_13.png"
+    },
+    {
+        "id": 14,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "medium blue",
+        "secondary_color": "dark blue",
+        "pattern": "patterned",
+        "material": "denim",
+        "temperature": "cold weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_14.png"
+    },
+    {
+        "id": 15,
+        "place": "pants",
+        "style": "pants",
+        "primary_color": "bright yellow",
+        "secondary_color": "bright orange",
+        "pattern": "checkered",
+        "material": "fabric",
+        "temperature": "all weather",
+        "image_path": "wardrobe_images/wardrobe_pants/pants_15.png"
+    }
+]
