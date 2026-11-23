@@ -1,13 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "clothing-prototype",
-  "private_key_id": "a815115afb64f7fbf237311b5fc02d6608607fc0",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDoBR8CKa/K7FzQ\nPH5VZZfWDUMGBSN9juRkm33EaB7wudhIwQqzQFca0ILEiDFUWal5kgSeJJ6jrKVD\nwBc8OsmuxxOTQxvt2RJEDb7Xf951CW9z6bJ5XyW15V0G3QGUFXeznrOSMpNRjHqL\n4Ymwj45piV/UajtAVTtmEm1jh5UZielOIe6NOHw2rmRQRM3gWK6WvgfOhgTNqeON\nb251AOxy05mJLszrOcCpdIbap8fUKcR00RDvWRLxzr5LxM/uoZYD13IJDUiXSE8j\nx9Vyi8OBtKiB4ZJm4jlrkRsMnT5HZRwIcSC1giITnhNUTY5JvIW9Fr3tJ0JhM6he\n3YB6F50LAgMBAAECggEAE62/hAjyGoVyl8zRsD+GIccNLLkJ2g/hCjFv+NUV7rfs\ngrsww6RM3v7ZYH7mpC9YovGCB8G2XM57U+Q6dEbOLU9AN0jFWSaEmJYL3i4/uXB7\n7fpfw1CRG7zg54CeLiel9+uZcmhsu0ltaWjPK1T5sLTQlm0OKnYwLAebFIp+2GQD\nOHzswlFWgI9xsn/yR6mZbK/mHB9aVzsUD3BHAhnZL+lDTF56q3AjAflgMDI2dkat\ndc09wRXMfi0AC6eLw8ivhbgdfEKyd4+IeaXRMYi4SnsOYu62mI7U/ubewmp/OqVO\nqfYluBbAYwfSiW9mGY7TZmDY2pE4XMqUp4CT/ot3RQKBgQD1PIYgQF659p3STUGz\nIydr8OA5dtDsKVvd4WvV9Q8Jtkk8jsakkTPXYx0z6KzoyVlVL9HddCBCyYNRI9ma\nGm8v5nqXlRwoMs0NqmfSmdufT4DrTRsywgdaRxcnVjnaErYs6rP/3M6WKg4N98nU\nsy4QqgVqumFFKM3Udife6zykHQKBgQDyNBj5PGGbqQ0JBaF0JqRrGDUjA8u7+V+I\nbEfUWsjcI3oec5zGO+lh3cEVS+h2+usotptTtIkhZo/mntSCMmfmwJm01MnUpGgY\nUKvlH9kR4ThreySrzrMlb4HR8MZhmNpCEqvNlxLQSrrxD+GJ4GMTLIZpH+7pq08f\n90xk65EtRwKBgQCywcJW4fTqgtx5ff0E8fv7T2JyIKybaG5hZr5vAClNAAWUUdJ0\nBK+QMdwIiXL4YERwtuG4FbyqUi8ZRxOHo/smJE96DKOwnY8ghfUV6zbOgmpLmjHY\nJtyrLqSu9MhIsFkAlrhMKgygItmJzvPcyhsq5HP8Xw0mF18pnlLjx/609QKBgQDw\nEjOu1+roH+iLyMkAGE1g2d3RlzGaYNQQpUONeW8exQuGo5IB6+Co4OVB9ru1M4Fk\nGZxcm9ZRBRgdv9FkPBJA5ydz1nc4Dr4fW9cGhUrkLhl+b9EpeviXYq+LKN16X8f3\nNgqU/enoDCrARr2HrKKHntqb2Ms3UlZbmQRgBB8igQKBgBEAoXhV3r8PweMvej+t\na/Av+uvTRPsM2LBv7CrpJqATdlKpZtZCD6Cx0WLAqPi7SuV+J3FSHvhGk+PNrVgo\ncuBIEzM2tGVH/fqO9hgnJs3IAhF4NvVtStqFt9Amnn1fIE4jhx5V9xKcFxuhd96a\nDSXnEnuy6VzsnMAJrkHvoj2N\n-----END PRIVATE KEY-----\n",
-  "client_email": "cijiproject@clothing-prototype.iam.gserviceaccount.com",
-  "client_id": "110041811493156381943",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cijiproject%40clothing-prototype.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "comment from Daniel": "Put your google vision key information here, but you unfortunately cannot use ours"
 }
